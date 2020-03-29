@@ -7,9 +7,9 @@
     
 项目依赖
 ----
-Python 3.6
-Selemium
-Chrome核心
+- Python 3.6
+- Selemium
+- Chrome核心
 
 项目文件
 ----
